@@ -1,0 +1,35 @@
+_repo: The-Love-Affairs-of-a-Bibliomaniac_443
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Field, Eugene
+    birthdate: 1850
+    deathdate: 1895
+    gutenberg_agent_id: '238'
+    url: http://www.gutenberg.org/2009/agents/238
+    wikipedia: http://en.wikipedia.org/wiki/Eugene_Field
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '1996-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '443'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Book collecting'
+- !lcc 'Z'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: My first love -- The birth of a new passion -- The luxury of reading
+  in bed -- The mania of collecting seizes me -- Baldness and intellectuality -- My
+  romance with Fiammetta -- The delights of fender-fishing -- Ballads and their makers
+  -- Booksellers and printers, old and new -- When Fanchonette bewitched me -- Diagnosis
+  of the Bacillus Librorum -- The pleasures of extra-illustration -- On the odors
+  which my books exhale -- Elzevirs and divers other matters -- A book that brings
+  solace and cheer -- The malady called Catalogitis -- The Napoleonic Renaissance
+  -- My workshop and others -- Our debt to monkish men.
+title: The Love Affairs of a Bibliomaniac
+url: http://www.gutenberg.org/ebooks/443
